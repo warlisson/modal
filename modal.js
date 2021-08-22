@@ -1,4 +1,3 @@
-<script>
 /**
  * This class is responsible to
  * open modals.
@@ -94,4 +93,3 @@ class Modal {
 }
 
 (new Modal).init();
-</script>
